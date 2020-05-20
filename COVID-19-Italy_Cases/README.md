@@ -27,5 +27,5 @@ You can include other countries or provinces, if available, by just adding the n
 ![Growth Rate](https://github.com/dariocazzani/COVID-19-trends/blob/master/images/image2.png)
 
 ### PROVINCES
-![Cases](COVID-19-Italy_Cases/images/Figure_1.png)
+![Cases](https://github.com/swarnajyoti/Python_ML_COVID19/blob/master/COVID-19-Italy_Cases/images/Figure_1.png)
 ![Growth Rate](https://github.com/dariocazzani/COVID-19-trends/blob/master/images/image4.png)
